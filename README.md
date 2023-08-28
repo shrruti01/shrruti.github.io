@@ -1,2 +1,1 @@
-initial commits
-zello
+what is going on
